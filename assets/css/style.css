@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.formContainer{
+    border: 1px solid black;
+    margin: 4rem;
+}
+
+p{
+    margin-bottom: 1rem;
+    margin-top: -0.5rem;
+    margin-left: 1rem;
+    padding-left: 0.25rem;
+    background-color: white;
+    width: 6rem;
+}
+
+form{
+    display: block;
+    margin-bottom: 0.5rem;
+    padding-left: 1rem;
+}
+
+
